@@ -23,7 +23,7 @@ const Nav = (props) => {
             <li>
                 <Link
                     to={filterUrl}>
-                    {e.replace('About the','').trim()}
+                    {e.replace(/[-/]/g," ").trim()}
                 </Link>
             </li>
         )

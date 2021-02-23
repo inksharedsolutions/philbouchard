@@ -251,10 +251,10 @@
 
 .link-read {
     color: #6a93c3 !important;
-    font-size: 13px;
+    font-size: 20px;
     margin-left: 5px;
     text-decoration: underline;
-    display: block;
+    // display: block;
 }
 
 /*Ant Customize*/
@@ -347,18 +347,28 @@
 .parallax-bottom {
     // background: url("../../../static/banner/banner_lower.png");
     // background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
-    background: #e6e6e6;
+    // background-position: center;
+    // background-repeat: no-repeat;
+    // background-attachment: fixed;
+    // background-size: cover;
+    background: #fbf7ff;
     height: 60vh;
+    width: 100%;
+
+    .slick-prev:before,
+    .slick-next:before {
+        color: gray;
+    }
+    
+    .slick-slide{
+        padding: 0 1%;
+    }
 }
 
 .flex-container {
     display: grid;
     height: 60vh;
-    grid-template-columns: 50%;
+    grid-template-columns: 70%;
     justify-content: center;
     align-items: center;
 
@@ -375,19 +385,19 @@
         }
 
         position: relative;
-        font-size: 37px;
+        font-size: 25px;
         color: #3f3f3f !important;
     }
 
     &:before {
-        content: "quote";
+        content: "Testimonials";
         position: absolute;
-        font-size: 11em;
+        font-size: 10vw;
         font-weight: 900;
         text-transform: capitalize;
-        color: #cacaca66;
+        color: #c2c2c266;
         text-transform: uppercase;
-        transform: translate(49%, 4%);
+        transform: translate(7%, 0);
     }
 }
 

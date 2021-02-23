@@ -43,7 +43,7 @@ const Author = (props) => {
                             He is also a credible martial artist at the North American level, the founder and Chief Executive Officer (CEO) of an important innovative scientific company in artificial intelligence covering Artificial Narrow Intelligence (ANI), Artificial General Intelligence (AGI), Artificial Super Intelligence (AGI), and defines a new layer to finalize it all: Artificial Collective Intelligence (ACI).
                             </p>
                             <p>
-                            Not to mention powerful tools used to create deterministic memory management and to speed up Python algorithms by 10x: Fornux C++ Superset and AI PowerShift. To know more about it, please visit: <a href="https://www.fornux.com" target="_blank" rel="noreferrer">https://www.fornux.com</a>
+                            Not to mention powerful tools used to create deterministic memory management and to speed up Python algorithms by 10x: Fornux C++ Superset and AI PowerShift. To know more about it, please visit: <a href="https://www.fornux.com" target="_blank" rel="noreferrer" className="link-read">https://www.fornux.com</a>
                             </p>
 
                             <p>

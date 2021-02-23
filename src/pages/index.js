@@ -14,7 +14,7 @@ const IndexPage = () => (
     <Layout>
       <Helmet title="Home | Phil Bouchard"/>
       <Nav />
-      <Banner /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+      <Banner /><br /><br /><br />
       <MidBook />
       <Author />
       <FeaturedLogos />
