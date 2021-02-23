@@ -29,7 +29,7 @@ const Author = (props) => {
                                     "That means the mass of the invisible universe is 738 times the mass of the visible universe."
                                 </h4>
                                 <span className="ata-span-fx">
-                                    Author's Quote
+                                    Favorite Line from the Book
                                 </span>
                             </div>
 
