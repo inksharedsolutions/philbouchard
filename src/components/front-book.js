@@ -29,6 +29,15 @@ const MidBook = (props) => {
                             In this book, a new gravitational theory is being proposed to replace General Relativity and extend classical physics. The theory is objective and predicts correct low scale GPS gravitational and kinetic time dilation, the correct position of the Moon, the perihelion precession disparity, the gravitational light bending, up to the rotation curve for all galaxies without non-baryonic dark matter, the expansion of the universe without dark energy, even solves black holes and the mass of the invisible universe encompassing the visible one.
                             </p>
 
+                            <a 
+                                href="https://ft.fornux.com/files/pdf/Finite_Theory.pdf"
+                                rel="noopener noreferrer" target="_blank"
+                                className="dl-link" download>
+                                Download Manuscript
+                            </a>
+                            
+                            <br />
+
                             <button className="btn-book-featured" data-aos="fade-up" data-aos-duration="3000">
                                 <Link to="/about-the-book">
                                     Read More

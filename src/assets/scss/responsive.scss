@@ -294,6 +294,17 @@
         }
     }
 
+    .parallax-bottom{
+
+        height: 75vh;
+
+        .flex-container{
+            h1, a, span{
+                font-size: 1em;
+            }
+        }
+    }
+
 }
 
 @media screen and (max-width: 650px) {

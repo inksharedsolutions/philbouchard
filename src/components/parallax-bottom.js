@@ -5,7 +5,6 @@ import Slider from "react-slick";
  const ParallaxBottom = ()=>{
 
     var settings = {
-        dots: true,
         infinite: true,
         speed: 500,
         slidesToShow: 1,
@@ -20,31 +19,31 @@ import Slider from "react-slick";
                     <Slider {...settings}>
                         <div>
                             <h1>
-                                Finite Theory defines a new representation of the formulas derived from General Relativity based on the superposed potentials of the predicted massless spin-2 gravitons that mediate gravitational fields.
+                            Finite Theory: Historical Milestone in Physics by Phil Bouchard is a non-fiction science and modern astrophysics book that challenges and expands on conventional theory which is widely accepted (even with multiple open questions remaining), consistent with the experimental data attributed to Einstein's General Relativity.
                                 <a 
-                                    href="https://www.theusreview.com/reviews/Finite-Theory-by-Phil-Bouchard.html#.YDNWZegzaUl"
+                                    href="https://books.google.ca/books/about/Finite_Theory.html?id=4q_fzAEACAAJ"
                                     rel="noreferrer"
                                     target="_blank"
                                     className="link-read" >
                                         Read More
                                 </a>
                                 <span className="italic-tag span-verse">
-                                    Kate Robinson
+                                    Asher Syed
                                 </span>
                             </h1>
                         </div>
                         <div>
                             <h1>
-                                In Phil Bouchard’s new book, Unified Field Theory Finite, he describes a concept that appears to overthrow a theory of one of the most brilliant and original thinkers of the twentieth century.
+                            The year 1915 marked a significant milestone in the scientific community as Albert Einstein published his paper on general relativity. This theory states that the past continues to exist and that the future is already there, waiting for us to experience it.
                                 <a 
-                                    href="https://sanfranciscobookreview.com/product/unified-field-theory/"
+                                    href="https://books.google.ca/books/about/Finite_Theory.html?id=4q_fzAEACAAJ"
                                     rel="noreferrer"
                                     target="_blank"
                                     className="link-read" >
                                         Read More
                                 </a>
                                 <span className="italic-tag span-verse">
-                                    D. Wayne Dworsky
+                                    Vincent Dublado
                                 </span>
                             </h1>
                         </div>
