@@ -62,10 +62,14 @@ const Nav = (props) => {
                 </li>
 
                 <li>
-                    <Link to="/contact">
+                    <a href="https://root.fornux.com/contact-us/" target="_blank">Contact </a>
+                </li>
+
+                {/* <li>
+                    <Link to="https://root.fornux.com/contact-us/">
                         Contact
 					</Link>
-                </li>
+                </li> */}
             </nav>
 
 
